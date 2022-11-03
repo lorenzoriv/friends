@@ -1,0 +1,7 @@
+```ruby
+names = ["joe","bob","donald" , "mario", "sam"]
+puts names[2]
+puts names[4] 
+puts names[0]
+end
+```
